@@ -53,7 +53,7 @@ This is a React application that fetches and displays products from the dummyjso
 
 ## API Used
 
-This project uses the dummyjson.com API to fetch product data and categories.
+This project uses the [dummyjson.com API](https://dummyjson.com/) API to fetch product data and categories.
 
   - Categories API: GET https://dummyjson.com/products/categories
   - Products API: GET https://dummyjson.com/products
